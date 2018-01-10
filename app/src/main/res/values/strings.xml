@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">FirstApp</string>
+
+    <string name="question_frog1">Frogs are cute</string>
+    <string name="question_frog2">Frogs are classified as Mammals</string>
+    <string name="question_frog3">Difference between a froglet and a frog is that a froglet has a tail and a frog does not</string>
+    <string name="question_frog4">Tadpoles consist of Legs and gills</string>
+    <string name="question_frog5">The frog-spawn stage is like Yoghurt</string>
+    <string name="question_frog6">Tadpoles breathe Lungs</string>
+    <string name="question_frog7">Froglets and frogs breathe Lungs</string>
+    <string name="question_frog8">Tadpoles feed on egg yolk in their gut</string>
+    <string name="question_frog9">Frogs are amazing!</string>
+
+    <string name="true_button">TRUE</string>
+    <string name="false_button">FALSE</string>
+    <string name="correct_toast">Correct!</string>
+    <string name="wrong_toast">Are you sure?</string>
+
+    <string name="next_button">Next</string>
+    <string name="previous_button">Prev</string>
+</resources>
